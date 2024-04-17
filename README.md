@@ -1,4 +1,4 @@
-# Docker bitcoin
+# Docker Bitcoin with OP_CAT
 
 Dockerfile of the public image [ghcr.io/vulpemventures/bitcoin-cat:latest](https://github.com/orgs/vulpemventures/packages/container/package/bitcoin-cat)
 
